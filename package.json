@@ -1,0 +1,16 @@
+{
+    "name": "cube",
+    "version": "1.0.0",
+    "description": "",
+    "main": "cube.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "electron": "^8.0.0",
+        "jslint": "^0.12.1",
+        "jslint.version": "latest"
+    }
+}
