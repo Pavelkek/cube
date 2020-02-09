@@ -1,16 +1,14 @@
 {
-    "name": "cube",
+    "name": "bot",
     "version": "1.0.0",
     "description": "",
-    "main": "cube.js",
+    "main": "bot.js",
     "scripts": {
         "start": "electron ."
     },
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "electron": "^8.0.0",
-        "jslint": "^0.12.1",
-        "jslint.version": "latest"
+        "electron": "^8.0.0"
     }
 }

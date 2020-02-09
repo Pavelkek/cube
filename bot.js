@@ -12,7 +12,7 @@ function createWindow() {
     });
 
     mainWindow.loadURL(url.format({
-        pathname: path.join(__dirname, 'cube.html'),
+        pathname: path.join(__dirname, 'bot.html'),
         protocol: 'file:',
         slashes: true
     }));
